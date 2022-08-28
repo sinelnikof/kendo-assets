@@ -1,0 +1,21 @@
+{
+    "name": "sinelnikof/yii2-kendo-assets",
+    "description": "kendo-assets",
+    "type": "library",
+    "keywords": ["yii2","extension","kendo","assets"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "sinelnikof88",
+            "email": "sinelnikof88@mail.ru"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "sinelnikof\\kendoAssets\\": ""
+        }
+    }
+}
